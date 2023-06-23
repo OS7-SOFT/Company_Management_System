@@ -27,3 +27,6 @@ After creating the database by script.sql in project files, open the project and
 
 Note: If you change the name of the database, you need to update it in the place where you changed the name of your server. In the DBname field, enter the new name.
 
+
+## •Note 
+when run program and show login window  the username "admin"  password "123"
