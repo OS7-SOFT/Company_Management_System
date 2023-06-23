@@ -1,0 +1,176 @@
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Company Management System.exe.config
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Company Management System.exe
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Company Management System.pdb
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\FontAwesome.Sharp.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Guna.UI2.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\MaterialSkin.dll
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.SuggestedBindingRedirects.cache
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.ManagementBudgt.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.Show_proj_info.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.ManagementDep.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.ManagementEmp.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Load_form.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.ManagementProj.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.ProjView.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.ReportView.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.ShowDepInfo.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Show_emp_info.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.budgetView.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.DepView.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.EmpView.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Home_window.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Main_Window.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Properties.Resources.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.GenerateResource.cache
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company Management System.exe.licenses
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.CoreCompileInputs.cache
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.CopyComplete
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company Management System.exe
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company Management System.pdb
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.AssemblyReference.cache
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.ManagementRep.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.Show_rep.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.NewAccount.resources
+D:\الملفات البرمجية الخاصة بي\OS7 Visual Studio\OS7 C#\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.LoginView.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Company Management System.exe.config
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Company Management System.exe
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Company Management System.pdb
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\FontAwesome.Sharp.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Guna.UI2.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\MaterialSkin.dll
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.AssemblyReference.cache
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.SuggestedBindingRedirects.cache
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.LoginView.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.ManagementRep.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.NewAccount.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.Show_rep.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.ManagementBudgt.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.Show_proj_info.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.ManagementDep.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.ManagementEmp.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Load_form.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.ManagementProj.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.ProjView.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.ReportView.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Views.Forms.ShowDepInfo.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Show_emp_info.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.budgetView.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.DepView.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.EmpView.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Home_window.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Main_Window.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company_Management_System.Properties.Resources.resources
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.GenerateResource.cache
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company Management System.exe.licenses
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.CoreCompileInputs.cache
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.CopyComplete
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company Management System.exe
+D:\My_Portfolio\Desktop_Program\Company Management System\Company Management System\obj\Debug\Company Management System.pdb

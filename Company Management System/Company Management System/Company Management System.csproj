@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6258BB0D-A222-4AE4-881B-9E2EFCB67CCB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Company_Management_System</RootNamespace>
+    <AssemblyName>Company Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Charts.WinForms">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu Charts WinForms 1.0.1\charts.winforms.1.0.1\Bunifu.Charts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Dataviz.WinForms">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu Dataviz WinForms 2.1.5\dataviz.winforms.2.1.5\Bunifu.Dataviz.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b" />
+    <Reference Include="Bunifu.UI.WinForms.1.5.3">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCircleProgress">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuColorTransition">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuColorTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGauge">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGradientPanel">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuGradientPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPanel">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRating">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuRating.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSeparator">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuSeparator.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShadowPanel">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShapes">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuShapes.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSnackbar">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuSnackbar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextBox">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToggleSwitch">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuToggleSwitch.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToolTip">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuToolTip.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTransition">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuUserControl">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Bunifu_UI_WinForms\Bunifu UI WinForms 5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuUserControl.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.1.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.1.1\lib\net48\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\..\لغات البرمجه\Visual Studio\الملف الخاص بستايل الواجهات\Guna_UI_ Framework\Guna UI Framework Ultimate 2.0.0.1\Guna UI Framework Ultimate v2.0.0.1 Lib-Master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=2.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.2.2.1.3\lib\net461\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Logic\Presenter\BudgetPresenter.cs" />
+    <Compile Include="Logic\Presenter\DepPresenter.cs" />
+    <Compile Include="Logic\Presenter\EmpPresenter.cs" />
+    <Compile Include="Logic\Presenter\HomePresenter.cs" />
+    <Compile Include="Logic\Presenter\LoginPresenter.cs" />
+    <Compile Include="Logic\Presenter\ProjPresenter.cs" />
+    <Compile Include="Logic\Presenter\RepPresenter.cs" />
+    <Compile Include="Logic\Servics\BudgetServics.cs" />
+    <Compile Include="Logic\Servics\Database.cs" />
+    <Compile Include="Logic\Servics\DepServices.cs" />
+    <Compile Include="Logic\Servics\EmpServices.cs" />
+    <Compile Include="Logic\Servics\HomeServices.cs" />
+    <Compile Include="Logic\Servics\LoginServices.cs" />
+    <Compile Include="Logic\Servics\ProjServices.cs" />
+    <Compile Include="Logic\Servics\RepServices.cs" />
+    <Compile Include="Model\BudgetModel.cs" />
+    <Compile Include="Model\DepModel.cs" />
+    <Compile Include="Model\EmpModel.cs" />
+    <Compile Include="Model\HomeModel.cs" />
+    <Compile Include="Model\ProjModel.cs" />
+    <Compile Include="Model\RepModel.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\LoginView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\LoginView.Designer.cs">
+      <DependentUpon>LoginView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\ManagementBudgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\ManagementBudgt.Designer.cs">
+      <DependentUpon>ManagementBudgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\ManagementDep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\ManagementDep.Designer.cs">
+      <DependentUpon>ManagementDep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\ManagementEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\ManagementEmp.Designer.cs">
+      <DependentUpon>ManagementEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\BudgetView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\BudgetView.Designer.cs">
+      <DependentUpon>BudgetView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\DepView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\DepView.Designer.cs">
+      <DependentUpon>DepView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\EmpView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\EmpView.Designer.cs">
+      <DependentUpon>EmpView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\HomeView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\HomeView.Designer.cs">
+      <DependentUpon>HomeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\Load_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\Load_form.Designer.cs">
+      <DependentUpon>Load_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\Main_Window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\Main_Window.Designer.cs">
+      <DependentUpon>Main_Window.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Views\Forms\ManagementProj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\ManagementProj.Designer.cs">
+      <DependentUpon>ManagementProj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\ManagementRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\ManagementRep.Designer.cs">
+      <DependentUpon>ManagementRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\NewAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\NewAccount.Designer.cs">
+      <DependentUpon>NewAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\ProjView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\ProjView.Designer.cs">
+      <DependentUpon>ProjView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\Forms\ReportView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\ReportView.Designer.cs">
+      <DependentUpon>ReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\ShowDepInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\ShowDepInfo.Designer.cs">
+      <DependentUpon>ShowDepInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\Show_emp_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\Show_emp_info.Designer.cs">
+      <DependentUpon>Show_emp_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\Show_proj_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\Show_proj_info.Designer.cs">
+      <DependentUpon>Show_proj_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\Show_rep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\Show_rep.Designer.cs">
+      <DependentUpon>Show_rep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Interface\IBudgetView.cs" />
+    <Compile Include="Views\Interface\IDepView.cs" />
+    <Compile Include="Views\Interface\IEmpView.cs" />
+    <Compile Include="Views\Interface\IHomeView.cs" />
+    <Compile Include="Views\Interface\ILoginView.cs" />
+    <Compile Include="Views\Interface\IProjView.cs" />
+    <Compile Include="Views\Interface\IRepView.cs" />
+    <None Include="Resources\as.jpg" />
+    <None Include="Resources\Presentation-Recovered.jpg" />
+    <EmbeddedResource Include="Views\Forms\LoginView.resx">
+      <DependentUpon>LoginView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\ManagementRep.resx">
+      <DependentUpon>ManagementRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\NewAccount.resx">
+      <DependentUpon>NewAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\Show_rep.resx">
+      <DependentUpon>Show_rep.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Resources\Home.png" />
+    <None Include="Resources\Image.png" />
+    <None Include="Resources\logoWhite.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\account.png" />
+    <EmbeddedResource Include="Views\Forms\ManagementBudgt.resx">
+      <DependentUpon>ManagementBudgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\Show_proj_info.resx">
+      <DependentUpon>Show_proj_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\ManagementDep.resx">
+      <DependentUpon>ManagementDep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\ManagementEmp.resx">
+      <DependentUpon>ManagementEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\Load_form.resx">
+      <DependentUpon>Load_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\ManagementProj.resx">
+      <DependentUpon>ManagementProj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\ProjView.resx">
+      <DependentUpon>ProjView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\ReportView.resx">
+      <DependentUpon>ReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\ShowDepInfo.resx">
+      <DependentUpon>ShowDepInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\Show_emp_info.resx">
+      <DependentUpon>Show_emp_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\BudgetView.resx">
+      <DependentUpon>BudgetView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\DepView.resx">
+      <DependentUpon>DepView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\EmpView.resx">
+      <DependentUpon>EmpView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\HomeView.resx">
+      <DependentUpon>HomeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\Main_Window.resx">
+      <DependentUpon>Main_Window.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
