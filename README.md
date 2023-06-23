@@ -1,6 +1,6 @@
 # Company_Management_System
 
-A simple desktop program for managing small companies or institutions. It is recommended to use this system for learning purposes only
+Simple desktop program for managing small companies or institutions. It is recommended to use this system for learning purposes only
 This project was developed using Visual Studio 2022 version 17.0.31912.275 and
 C# NET Framework Winforms Connected with SQL Server, and the MVP (Model - View - Presenter) design pattern was implemented.
 
